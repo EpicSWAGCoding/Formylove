@@ -98,7 +98,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "14.10", 
     year: "2018", 
     title: "Милые прогулки, теплые посиделки, локальные истории про НЛО",
-    image: "/photos/walks.jpg",
+    image: "/photos/walks.JPG",
   },
   { 
     date: "20.10", 
@@ -112,14 +112,14 @@ export const timelineEvents: TimelineEvent[] = [
     date: "22.10", 
     year: "2018", 
     title: "Первое свидание с Синабонами",
-    image: "/photos/sinabon.jpg",
+    image: "/photos/sinabon.JPG",
   },
   { 
     date: "04.11", 
     year: "2018", 
     title: "Первый поцелуй", 
     highlight: true,
-    image: "/photos/first-kiss.jpg",
+    image: "/photos/first-kiss.JPG",
     // music: "/music/first-kiss.mp3",
   },
   { 
@@ -153,7 +153,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "11.02", 
     year: "2019", 
     title: "Совместная поездка в Санкт-Петербург",
-    image: "/photos/spb.jpg",
+    image: "/photos/spb.JPG",
   },
   { 
     date: "14.02", 
@@ -198,7 +198,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "05.06", 
     year: "2019", 
     title: "Зарубились в Уно",
-    image: "/photos/uno.jpg",
+    image: "/photos/uno.JPG",
   },
   {
     date: "16.06",
@@ -210,7 +210,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "24.06",
     year: "2019",
     title: "Выпускной, выпускной, выпускной",
-    image: "/photos/vipysk.jpg"
+    image: "/photos/vipysk.JPG"
   },
   {
     date: "03.07",
@@ -228,31 +228,31 @@ export const timelineEvents: TimelineEvent[] = [
     date: "22.07",
     year: "2019",
     title: "Ну не мог не добавить сердечко",
-    image: "/photos/hearthends.jpg"
+    image: "/photos/hearthends.JPG"
   },
   { 
     date: "03.08", 
     year: "2019", 
     title: "Прыгнул с парашюта",
-    image: "/photos/parachute.png",
+    image: "/photos/parachute.PNG",
   },
   {
     date: "18.06",
     year: "2019",
     title: "Тусим перед жесткой учебой",
-    image: "/photos/universe.jpg"
+    image: "/photos/universe.JPG"
   },
   {
     date: "22.09",
     year: "2019",
     title: "Любовь на растроянии(",
-    image: "/photos/lovefar.jpg"
+    image: "/photos/lovefar.JPG"
   },
   { 
     date: "06.10", 
     year: "2019", 
     title: "Мне сделали крутой подарок своими руками",
-    image: "/photos/handmade-gift.jpg",
+    image: "/photos/handmade-gift.JPG",
   },
   {
     date: "04.10",
@@ -264,7 +264,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "10.10", 
     year: "2019", 
     title: "Первая годовщина и в костюме со светоотражателями",
-    image: "/photos/costume.jpg",
+    image: "/photos/costume.JPG",
   },
   {
     date: "16.10",
@@ -276,7 +276,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "02.11",
     year: "2019",
     title: "Тигрица, остановимся и полюбуемся",
-    image: "/photos/cutegirlcute.jpg"
+    image: "/photos/cutegirlcute.JPG"
   },
   {
     date: "05.11",
@@ -288,7 +288,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "17.11",
     year: "2019",
     title: "Самая красивая и любимая",
-    image: "/photos/cutecutegirl.jpg"
+    image: "/photos/cutecutegirl.JPG"
   },
   { 
     date: "01.12", 
@@ -301,7 +301,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "09.12",
     year: "2019",
     title: "Наши 3D аватары",
-    image: "/photos/3davatar.png"
+    image: "/photos/3davatar.PNG"
   },
 
   // ========== 2020 ==========
@@ -309,37 +309,37 @@ export const timelineEvents: TimelineEvent[] = [
     date: "13.03",
     year: "2020",
     title: "VETEMENTS - это же круто",
-    image: "/photos/vetements.jpg"
+    image: "/photos/vetements.JPG"
   },
   {
     date: "02.04",
     year: "2020",
     title: "Свидание на расстоянии, кто-то спит",
-    image: "/photos/sleepgirl.jpg"
+    image: "/photos/sleepgirl.JPG"
   },
   {
     date: "04.04",
     year: "2020",
     title: "Комочек счастья, ути-пути-пути",
-    image: "/photos/utipyti.jpg"
+    image: "/photos/utipyti.JPG"
   },
   {
     date: "12.04",
     year: "2020",
     title: "pov: мы сейчас, хи-хи",
-    image: "/photos/reallife.jpg"
+    image: "/photos/reallife.JPG"
   },
   {
     date: "28.04",
     year: "2020",
     title: "Боже мой сколько же можно любоваться на эту кросотку?",
-    image: "/photos/bozemoi.jpg"
+    image: "/photos/bozemoi.JPG"
   },
   {
     date: "11.06",
     year: "2020",
     title: "Бьюти процедуры вместе",
-    image: "/photos/buytytogesher.jpg"
+    image: "/photos/buytytogesher.JPG"
   },
   {
     date: "18.06",
@@ -366,13 +366,13 @@ export const timelineEvents: TimelineEvent[] = [
     date: "12.03",
     year: "2021",
     title: "Внезапный фак ю, хи-хи-хи",
-    image: "/photos/fucku.jpg"
+    image: "/photos/fucku.JPG"
   },
   {
     date: "04.05",
     year: "2021",
     title: "Типо крутые перцы",
-    image: "/photos/superperchi.jpg"
+    image: "/photos/superperchi.JPG"
   },
   {
     date: "10.05",
@@ -428,7 +428,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "02.03",
     year: "2022",
     title: "Пришли на масленицу и увидели как чучело горит",
-    image: "/photos/maslenicha.jpg"
+    image: "/photos/maslenicha.JPG"
   },
   {
     date: "11.05",
@@ -446,7 +446,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "30.06",
     year: "2022",
     title: "Букет на 10000000000000 доларов",
-    image: "/photos/flowers.jpg"
+    image: "/photos/flowers.JPG"
   },
   { 
     date: "17.08", 
@@ -458,7 +458,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "08.10", 
     year: "2022", 
     title: "Кушали бенто тортик",
-    image: "/photos/bento.jpg",
+    image: "/photos/bento.JPG",
   },
   { 
     date: "12.11", 
@@ -480,7 +480,7 @@ export const timelineEvents: TimelineEvent[] = [
     date: "26.02",
     year: "2023",
     title: "Люблю тебя очень сильно",
-    image: "/photos/lovevery.jpg"
+    image: "/photos/lovevery.JPG"
   },
   {
     date: "09.03",
@@ -505,7 +505,7 @@ export const timelineEvents: TimelineEvent[] = [
     year: "2023", 
     title: "Купили Сельвану", 
     highlight: true,
-    image: "/photos/selvana.jpg",
+    image: "/photos/selvana.JPG",
   },
   {
     date: "26.06",
